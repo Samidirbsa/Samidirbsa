@@ -10,5 +10,6 @@ I'm a full stack Data Analyst.
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Parq254&theme=dark&background=000000)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samuel Dribsa
+Samidirbsa&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parq254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats )
