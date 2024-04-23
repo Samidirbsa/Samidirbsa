@@ -18,4 +18,6 @@ With a collaborative mindset and a commitment to continuous learning, I'm dedica
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Samidirbsa&theme=dark&background=000000)](https://git.io/streak-stats)<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samidirbsa&theme=great-gatsby_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samidirbsa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats )
